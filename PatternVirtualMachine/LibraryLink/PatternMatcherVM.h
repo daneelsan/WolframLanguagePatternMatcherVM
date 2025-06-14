@@ -104,5 +104,3 @@ private:
     void executeBranch(VMState &state, int offset);
     void executeBranchFalse(VMState &state, int offset);
 };
-
-#endif // PATTERN_MATCHER_VM_H
